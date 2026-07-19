@@ -347,3 +347,31 @@ release tarball can ship only `bin/`.
   won't be honoured. Use `--pty` for true interactive sessions.
 - ConPTY requires Windows 10 1809+. On older Windows the `--pty` path
   will fail at `CreatePseudoConsole`.
+
+---
+
+## Disclaimer
+
+This software is provided for educational and authorized testing
+purposes only. The authors and contributors are not responsible for
+any misuse or damage caused by this tool.
+
+- You may only use `ish` on systems you own or have explicit written
+  authorization to test.
+- Unauthorized access to computer systems is illegal in most
+  jurisdictions. Always obtain proper permission before conducting
+  security testing.
+- The tool is designed to assist security professionals and AI agents
+  in managing interactive shell sessions during penetration testing
+  engagements. It is not intended to facilitate unauthorized access.
+- By using this software, you accept full responsibility for your
+  actions and agree to comply with all applicable local, state,
+  national, and international laws.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
